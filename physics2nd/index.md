@@ -5,4 +5,4 @@
 ### Select lessons from Below
 
 
-[Chapter 9 - Atomic Model and Nuclear Physics - Maths](https://drive.google.com/file/d/1jdcuwRkFDB0ZjcfcrYxPC0EtsilIWbQb/view?usp=drivesdk)
+[Chapter 9 - Atomic Model and Nuclear Physics - Maths](https://github.com/mahir28/hsc/raw/gh-pages/physics2nd/Physics2nd-Chapter9-Atom-Math.pdf)
